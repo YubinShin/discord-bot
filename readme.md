@@ -77,11 +77,11 @@ https://hoohaha.tistory.com/37<br/>
 
 - 봇이 실행되면 Discord 서버에 오전 9시마다 깃허브 저장소의 이슈를 트래킹 해줍니다.
 
-<img width="643" alt="스크린샷 2023-10-31 오후 11 17 01" src="https://github.com/YubinShin/discord-bot/assets/68121478/5ee25f7b-f26b-4646-aefc-5dffac010a16">
+<img width="643" alt="스크린샷 2023-10-31 오후 11 17 01" src="https://github.com/YubinShin/discord-bot/assets/68121478/5ee25f7b-f26b-4646-aefc-5dffac010a16"><br/>
 
 - 봇이 실행되면 Discord 봇이 항상 감시하는 중이라는 표시를 띄워 서버에 긴장감을 줄 수 있습니다.
 
-<img width="240" alt="스크린샷 2023-10-31 오후 11 23 42" src="https://github.com/YubinShin/discord-bot/assets/68121478/282570ae-7669-4a9c-89c8-7a5c002fa26e">
+<img width="240" alt="스크린샷 2023-10-31 오후 11 23 42" src="https://github.com/YubinShin/discord-bot/assets/68121478/282570ae-7669-4a9c-89c8-7a5c002fa26e"><br/>
 
 - 봇이 실행되면 Discord 서버에서 다음과 같이 명령어를 입력할 수 있습니다.
 
@@ -89,4 +89,4 @@ https://hoohaha.tistory.com/37<br/>
    누가진짜야: 봇이 팀원을 사칭합니다.<br/>
    너누구야: 봇이 팀원을 사칭합니다.<br/>
 
-<img width="505" alt="스크린샷 2023-10-31 오후 10 44 33" src="https://github.com/YubinShin/discord-bot/assets/68121478/bffe0c13-90cc-4095-a011-721e7f12d16c">
+<img width="505" alt="스크린샷 2023-10-31 오후 10 44 33" src="https://github.com/YubinShin/discord-bot/assets/68121478/bffe0c13-90cc-4095-a011-721e7f12d16c"><br/>

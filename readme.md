@@ -15,33 +15,33 @@
    ```
 2. 가상 환경을 생성&활성화 후 의존성들을 설치합니다.
 
-  Mac/linux
-  ```sh
-  python -m venv myenv
-  source myenv/bin/activate
-  pip install -r requirements.txt
-  ```
-
-  Window
-  ```sh
-  python -m venv myenv
-  myenv\Scripts\activate
-  pip install -r requirements.txt
-  ```
+     Mac/linux
+     ```sh
+     python -m venv myenv
+     source myenv/bin/activate
+     pip install -r requirements.txt
+     ```
+   
+     Window
+     ```sh
+     python -m venv myenv
+     myenv\Scripts\activate
+     pip install -r requirements.txt
+     ```
 
 3. 터미널에 하단 내용을 입력하여 Discord 봇 토큰 및 다른 환경 변수를 설정합니다.
 
-  ```sh
-  set GITHUB_TOKEN=your_github_token
-  set DISCORD_BOT_TOKEN=your_discord_bot_token
-  set DISCORD_CHANNEL_ID=your_discord_channel_id
-  ```
+     ```sh
+     set GITHUB_TOKEN=your_github_token
+     set DISCORD_BOT_TOKEN=your_discord_bot_token
+     set DISCORD_CHANNEL_ID=your_discord_channel_id
+     ```
 
 4. 봇을 실행합니다.
 
-  ```sh
-  python bot.py
-  ```
+     ```sh
+     python bot.py
+     ```
 
 ## 봇 사용
 

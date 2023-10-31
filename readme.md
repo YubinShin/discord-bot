@@ -10,6 +10,8 @@
 디스코드 봇 생성<br/>
 https://discord.com/developers/applications<br/>
 https://velog.io/@dombe/문제-해결-그리고-기본적인-Discord-bot-만들기<br/>
+https://devbench.kr/forum/qna/401<br/>
+
 
 디스코드 개발자모드 및 채널id 구하는 법<br/>
 https://helpdeskgeek.com/how-to/how-to-enable-and-use-developer-mode-on-discord/<br/>

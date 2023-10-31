@@ -5,6 +5,18 @@
 
 이 프로젝트는 Discord 봇을 실행하는 데 사용됩니다. 아래의 단계를 따라 프로젝트를 설정하고 실행하세요.
 
+## 환경설정
+
+디스코드 봇 생성
+https://discord.com/developers/applications
+https://velog.io/@dombe/문제-해결-그리고-기본적인-Discord-bot-만들기
+
+디스코드 개발자모드 및 채널id 구하는 법
+https://helpdeskgeek.com/how-to/how-to-enable-and-use-developer-mode-on-discord/
+
+깃허브 access_token 생성
+https://hoohaha.tistory.com/37
+
 ## 실행 가이드
 
 1. 이 저장소를 클론합니다
@@ -67,6 +79,9 @@
 
 <img width="643" alt="스크린샷 2023-10-31 오후 11 17 01" src="https://github.com/YubinShin/discord-bot/assets/68121478/5ee25f7b-f26b-4646-aefc-5dffac010a16">
 
+- 봇이 실행되면 Discord 봇이 항상 감시하는 중이라는 표시를 띄워 서버에 긴장감을 줄 수 있습니다.
+
+<img width="240" alt="스크린샷 2023-10-31 오후 11 23 42" src="https://github.com/YubinShin/discord-bot/assets/68121478/282570ae-7669-4a9c-89c8-7a5c002fa26e">
 
 - 봇이 실행되면 Discord 서버에서 다음과 같이 명령어를 입력할 수 있습니다.
 

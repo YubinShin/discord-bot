@@ -1,4 +1,4 @@
-<img width="505" alt="스크린샷 2023-10-31 오후 10 44 33" src="https://github.com/YubinShin/discord-bot/assets/68121478/bffe0c13-90cc-4095-a011-721e7f12d16c">
+
 
 
 # 프로젝트 실행 가이드
@@ -50,3 +50,6 @@
 인사해: 봇이 인사합니다.
 누가진짜야: 봇이 진짜 팀원을 사칭합니다.
 너누구야: 봇이 팀원을 사칭합니다.
+
+
+<img width="505" alt="스크린샷 2023-10-31 오후 10 44 33" src="https://github.com/YubinShin/discord-bot/assets/68121478/bffe0c13-90cc-4095-a011-721e7f12d16c">

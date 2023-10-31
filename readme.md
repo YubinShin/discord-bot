@@ -3,21 +3,20 @@
 
 # 프로젝트 실행 가이드
 
-이 프로젝트는 Discord 봇을 실행하는 데 사용됩니다. 아래의 단계를 따라 프로젝트를 설정하고 실행하세요.
+이 프로젝트는 깃허브 저장소의 이슈를 트래킹하는 Discord 봇을 실행하는 데 사용됩니다. 아래의 단계를 따라 프로젝트를 설정하고 실행하세요.
 
-## 환경설정
+## 환경 설정
+1. 디스코드 봇 생성
 
-디스코드 봇 생성<br/>
-https://discord.com/developers/applications<br/>
-https://velog.io/@dombe/문제-해결-그리고-기본적인-Discord-bot-만들기<br/>
-https://devbench.kr/forum/qna/401<br/>
+   [디스코드 개발자 포털](https://discord.com/developers/applications)에서 새로운 봇을 생성합니다.<br/>
+   [이 페이지](https://velog.io/@dombe/문제-해결-그리고-기본적인-Discord-bot-만들기)를 참고하여 기본적인 Discord 봇을 만들어보세요. (intent 설정시 [이 페이지](https://devbench.kr/forum/qna/401)를  참고)<br/>
+   [이 페이지](https://helpdeskgeek.com/how-to/how-to-enable-and-use-developer-mode-on-discord)를 참고하여 디스코드 채널 ID를 구하세요.<br/>
 
 
-디스코드 개발자모드 및 채널id 구하는 법<br/>
-https://helpdeskgeek.com/how-to/how-to-enable-and-use-developer-mode-on-discord/<br/>
+2. 깃허브 Access Token 생성
 
-깃허브 access_token 생성<br/>
-https://hoohaha.tistory.com/37<br/>
+   [이 페이지](https://hoohaha.tistory.com/37)를 참고하여 깃허브 Access Token을 생성하세요.
+
 
 ## 실행 가이드
 
@@ -79,11 +78,11 @@ https://hoohaha.tistory.com/37<br/>
 
 - 봇이 실행되면 Discord 서버에 오전 9시마다 깃허브 저장소의 이슈를 트래킹 해줍니다.
 
-<img width="643" alt="스크린샷 2023-10-31 오후 11 17 01" src="https://github.com/YubinShin/discord-bot/assets/68121478/5ee25f7b-f26b-4646-aefc-5dffac010a16"><br/>
+   <img width="643" alt="스크린샷 2023-10-31 오후 11 17 01" src="https://github.com/YubinShin/discord-bot/assets/68121478/5ee25f7b-f26b-4646-aefc-5dffac010a16"><br/>
 
 - 봇이 실행되면 Discord 봇이 항상 감시하는 중이라는 표시를 띄워 서버에 긴장감을 줄 수 있습니다.
 
-<img width="240" alt="스크린샷 2023-10-31 오후 11 23 42" src="https://github.com/YubinShin/discord-bot/assets/68121478/282570ae-7669-4a9c-89c8-7a5c002fa26e"><br/>
+   <img width="240" alt="스크린샷 2023-10-31 오후 11 23 42" src="https://github.com/YubinShin/discord-bot/assets/68121478/282570ae-7669-4a9c-89c8-7a5c002fa26e"><br/>
 
 - 봇이 실행되면 Discord 서버에서 다음과 같이 명령어를 입력할 수 있습니다.
 
@@ -91,4 +90,4 @@ https://hoohaha.tistory.com/37<br/>
    누가진짜야: 봇이 팀원을 사칭합니다.<br/>
    너누구야: 봇이 팀원을 사칭합니다.<br/>
 
-<img width="505" alt="스크린샷 2023-10-31 오후 10 44 33" src="https://github.com/YubinShin/discord-bot/assets/68121478/bffe0c13-90cc-4095-a011-721e7f12d16c"><br/>
+   <img width="505" alt="스크린샷 2023-10-31 오후 10 44 33" src="https://github.com/YubinShin/discord-bot/assets/68121478/bffe0c13-90cc-4095-a011-721e7f12d16c"><br/>

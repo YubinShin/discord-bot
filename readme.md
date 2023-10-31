@@ -7,15 +7,15 @@
 
 ## 환경설정
 
-디스코드 봇 생성
-https://discord.com/developers/applications
-https://velog.io/@dombe/문제-해결-그리고-기본적인-Discord-bot-만들기
+디스코드 봇 생성<br/>
+https://discord.com/developers/applications<br/>
+https://velog.io/@dombe/문제-해결-그리고-기본적인-Discord-bot-만들기<br/>
 
-디스코드 개발자모드 및 채널id 구하는 법
-https://helpdeskgeek.com/how-to/how-to-enable-and-use-developer-mode-on-discord/
+디스코드 개발자모드 및 채널id 구하는 법<br/>
+https://helpdeskgeek.com/how-to/how-to-enable-and-use-developer-mode-on-discord/<br/>
 
-깃허브 access_token 생성
-https://hoohaha.tistory.com/37
+깃허브 access_token 생성<br/>
+https://hoohaha.tistory.com/37<br/>
 
 ## 실행 가이드
 
